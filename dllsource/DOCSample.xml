@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DOCSample</name>
+    </assembly>
+    <members>
+        <member name="T:DOCSample.AnotherClass">
+            <summary>
+            just another class
+            </summary>
+        </member>
+        <member name="P:DOCSample.AnotherClass.MyValue1">
+            <summary>
+            my first value
+            </summary>
+        </member>
+        <member name="P:DOCSample.AnotherClass.MyValue2">
+            <summary>
+            my second value
+            </summary>
+        </member>
+        <member name="M:DOCSample.AnotherClass.DoSomething">
+            <summary>
+            does something
+            </summary>
+        </member>
+        <member name="M:DOCSample.AnotherClass.DoNothing">
+            <summary>
+            does nothing
+            </summary>
+        </member>
+        <member name="T:DOCSample.SampleClass">
+            <summary>
+            just a sample class
+            </summary>
+        </member>
+        <member name="P:DOCSample.SampleClass.SampleValue1">
+            <summary>
+            my first value
+            </summary>
+        </member>
+        <member name="P:DOCSample.SampleClass.SampleValue2">
+            <summary>
+            my second value
+            </summary>
+        </member>
+        <member name="M:DOCSample.SampleClass.DoSomething">
+            <summary>
+            does something
+            </summary>
+        </member>
+        <member name="M:DOCSample.SampleClass.DoNothing">
+            <summary>
+            does nothing
+            </summary>
+        </member>
+        <member name="T:DOCSample.Form1">
+            <summary>
+            Sample Form
+            </summary>
+        </member>
+        <member name="M:DOCSample.Form1.#ctor">
+            <summary>
+            constructor
+            </summary>
+        </member>
+        <member name="M:DOCSample.Form1.DoSomething">
+            <summary>
+            does something
+            </summary>
+        </member>
+        <member name="M:DOCSample.Form1.DoNothing">
+            <summary>
+            does nothing
+            </summary>
+        </member>
+        <member name="F:DOCSample.Form1.components">
+            <summary>
+            Erforderliche Designervariable.
+            </summary>
+        </member>
+        <member name="M:DOCSample.Form1.Dispose(System.Boolean)">
+            <summary>
+            Verwendete Ressourcen bereinigen.
+            </summary>
+            <param name="disposing">True, wenn verwaltete Ressourcen gelöscht werden sollen; andernfalls False.</param>
+        </member>
+        <member name="M:DOCSample.Form1.InitializeComponent">
+            <summary>
+            Erforderliche Methode für die Designerunterstützung.
+            Der Inhalt der Methode darf nicht mit dem Code-Editor geändert werden.
+            </summary>
+        </member>
+        <member name="M:DOCSample.Program.Main">
+            <summary>
+            Der Haupteinstiegspunkt für die Anwendung.
+            </summary>
+        </member>
+        <member name="T:DOCSample.Properties.Resources">
+            <summary>
+              Eine stark typisierte Ressourcenklasse zum Suchen von lokalisierten Zeichenfolgen usw.
+            </summary>
+        </member>
+        <member name="P:DOCSample.Properties.Resources.ResourceManager">
+            <summary>
+              Gibt die zwischengespeicherte ResourceManager-Instanz zurück, die von dieser Klasse verwendet wird.
+            </summary>
+        </member>
+        <member name="P:DOCSample.Properties.Resources.Culture">
+            <summary>
+              Überschreibt die CurrentUICulture-Eigenschaft des aktuellen Threads für alle
+              Ressourcenlookups, die diese stark typisierte Ressourcenklasse verwenden.
+            </summary>
+        </member>
+    </members>
+</doc>
