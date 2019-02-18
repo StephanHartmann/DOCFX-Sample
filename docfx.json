@@ -7,7 +7,7 @@
           "src": "dllsource/"
         }
       ],
-      "dest": "api",
+      "dest": "doc/api",
       "disableGitFeatures": false,
       "disableDefaultFilter": false
     }
@@ -17,11 +17,12 @@
     "content": [
       {
         "files": [
-  		  "api/**.yml",
-          "api/index.md",
-		  "doc/**",
-		  "samples/**",
-		  ]
+		"doc/index.md",
+		"doc/toc.yml",
+		"doc/api/**.yml",
+		"doc/api/index.md",
+		"doc/samples/**"
+		]
       },
       {
         "files": [

@@ -1,2 +1,2 @@
 # Samples
-here are the samples
+here you find API description and samples

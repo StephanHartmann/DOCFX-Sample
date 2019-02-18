@@ -1,4 +1,4 @@
 - name: Samples
-  href: ../samples/toc.yml
+  href: ../doc/samples/toc.yml
 - name: Reference
-  href: ../api/toc.yml
+  href: ../doc/api/toc.yml  
